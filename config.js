@@ -3,7 +3,7 @@
 //copy this file's contents to another file 'config.js' and store your MongoLab uri there
 
 module.exports = {
-    db: {
-      uri: 'mongodb+srv://guest:4k41oCtpytgJHjzn@cluster-jyux7.mongodb.net/test?retryWrites=true&w=majority'
-    }
-  };
+  db: {
+    uri: 'mongodb+srv://guest:4k41oCtpytgJHjzn@cluster-jyux7.mongodb.net/test?retryWrites=true&w=majority', //place the URI of your mongo database here.
+  }
+};
