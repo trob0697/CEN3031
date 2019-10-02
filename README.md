@@ -252,9 +252,9 @@ This Bootcamp is an exercise in test driven development (TDD). When you first st
     (iii) Try also to test out your post and update requests
     - **run automated tests on your implementation** by running the mocha test found in the test folder `listings.server.routes.test.js` - some test may still fail. See notes in the test file to help resolve errors.
 
-5. Make sure your server is functioning correctly by starting it up by running the command `node server.js.` Manually **browser test your routes** try adding a test to create or update a listing and check the database to see if it is there. You may manually have to deleted the listing once you add it, unless you add a test to delete it.
+7. Make sure your server is functioning correctly by starting it up by running the command `node server.js.` Manually **browser test your routes** try adding a test to create or update a listing and check the database to see if it is there. You may manually have to deleted the listing once you add it, unless you add a test to delete it.
 
-6. Complete the `coordinates.server.controller.js` you will need to connect to opencagedata.com to lookup the address provided in the listing and add the latitude and longitude coordinates for the new listing you've added. This will require you to
+8. Complete the `coordinates.server.controller.js` you will need to connect to opencagedata.com to lookup the address provided in the listing and add the latitude and longitude coordinates for the new listing you've added. This will require you to
     - **construct a template for your request string** see open cage date [quickstart](https://opencagedata.com/api#quickstart) guide and [best practices](https://opencagedata.com/api#bestpractices) for string construction. 
     - Consider using **postman** to help you test out the right connection string format, see [open cage postman tutorial](https://opencagedata.com/tutorials/geocode-in-postman)
     - **parse the response** for the results you need: `latitude` & `longitude`. Note: `listins.server.controller.js` is using the `req.results` to update the listing. *Assumption:* For the purpose of this assignment, assume we find a match and the first result returned is our address. The results for building on campus aren't super robust in the open cage data. Resolving this issues is beyond this scope of this assignment. 
