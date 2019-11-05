@@ -58,7 +58,7 @@ class App extends React.Component {
     return (
       <div className="bg">
         <div className="row">
-          <h1>UF Directory App</h1>
+          <h1 style={{marginLeft: 25}}>UF Directory App</h1>
         </div>
         <Search filterText={this.state.filterText} filterUpdate={this.filterUpdate}/>
         <AddBuilding addBuildingToData={this.addBuildingToData}/>
