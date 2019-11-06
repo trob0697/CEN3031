@@ -33,7 +33,7 @@ class AddBuilding extends React.Component {
                     <input style={{margin: '2.5px', marginLeft: '10px', height: '30px'}} type='text' placeholder='Code' value={this.state.code} onChange={this.codeUpdate}/>
                     <input style={{margin: '2.5px', marginLeft: '10px', height: '30px'}} type='text' placeholder='Name' value={this.state.name} onChange={this.nameUpdate}/>
                 </form>
-                <Button style={{marginLeft: '15px'}} variant='primary' onClick={this.add}>Add</Button>
+                <Button style={{marginLeft: '15px', marginTop: '15px'}} variant='primary' onClick={this.add}>Add</Button>
             </div>
         )
     }

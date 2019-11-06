@@ -1,6 +1,5 @@
 export default [
     {
-        id: 1,
         code: 'AAF',
         name: 'Academic Advisement - Farrior Hall',
         coordinates: {
@@ -10,12 +9,10 @@ export default [
         address: '100 Fletcher Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 2,
         code: 'AGRL',
         name: 'Plant Pathology Research Lab 2'
     },
     {
-        id: 3,
         code: 'AND',
         name: 'Anderson Hall',
         coordinates: {
@@ -25,7 +22,6 @@ export default [
         address: '1507 W University Ave, Gainesville, FL 32611, United States'
     },
     {
-        id: 4,
         code: 'ANS',
         name: 'Animal Sciences',
         coordinates: {
@@ -35,12 +31,10 @@ export default [
         address: 'Gainesville, FL 32608, United States'
     },
     {
-        id: 5,
         code: 'ANSC',
         name: 'Animal/Dairy Science Building'
     },
     {
-        id: 6,
         code: 'ARB',
         name: 'Academic Research - Health Sciences Center',
         coordinates: {
@@ -50,7 +44,6 @@ export default [
         address: '1600 SW Archer Rd, Gainesville, FL 32610, United States'
     },
     {
-        id: 7,
         code: 'ARCH',
         name: 'Architecture',
         coordinates: {
@@ -60,7 +53,6 @@ export default [
         address: '1389 Stadium Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 8,
         code: 'ASF',
         name: 'Elmore Hall',
         coordinates: {
@@ -71,7 +63,6 @@ export default [
             'Elmore Hall for Administrative Services, Gainesville, FL 32607, USA'
     },
     {
-        id: 9,
         code: 'AUD',
         name: 'University Auditorium',
         coordinates: {
@@ -81,12 +72,10 @@ export default [
         address: '333 Newell Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 10,
         code: 'AWAX',
         name: 'Aquatic Weed Annex'
     },
     {
-        id: 11,
         code: 'BAR',
         name: 'Bartram Hall',
         coordinates: {
@@ -96,7 +85,6 @@ export default [
         address: 'Bartram Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 12,
         code: 'BEC',
         name: 'Beaty Commons',
         coordinates: {
@@ -106,7 +94,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 13,
         code: 'BEN',
         name: 'Benton Hall',
         coordinates: {
@@ -116,7 +103,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 14,
         code: 'BGH',
         name: 'Bruton-Geer Hall',
         coordinates: {
@@ -126,7 +112,6 @@ export default [
         address: 'Bruton-Geer Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 15,
         code: 'BLK',
         name: 'Black Hall - Environmental Science',
         coordinates: {
@@ -136,7 +121,6 @@ export default [
         address: '365 Weil Hall, Gainesville, FL 32611, United States'
     },
     {
-        id: 16,
         code: 'BME',
         name: 'Broad Biomedical Engineering Building',
         coordinates: {
@@ -146,7 +130,6 @@ export default [
         address: '919 N Broad St, Brooksville, FL 34601, United States'
     },
     {
-        id: 17,
         code: 'BMS',
         name: 'Biomedical Sciences',
         coordinates: {
@@ -156,7 +139,6 @@ export default [
         address: '1275 Center Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 18,
         code: 'BRO',
         name: 'Broward Hall',
         coordinates: {
@@ -166,7 +148,6 @@ export default [
         address: 'Broward Hall, 680 Broward Dr, Gainesville, FL 32603, USA'
     },
     {
-        id: 19,
         code: 'BRT',
         name: 'Bryant Space Science Center',
         coordinates: {
@@ -176,7 +157,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 20,
         code: 'BRY',
         name: 'Bryan Hall',
         coordinates: {
@@ -186,7 +166,6 @@ export default [
         address: '1384 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 21,
         code: 'BSU',
         name: 'Veterinary Medicine - Basic Sciences',
         coordinates: {
@@ -196,12 +175,10 @@ export default [
         address: '2001 S Lincoln Ave, Urbana, IL 61802, United States'
     },
     {
-        id: 22,
         code: 'CABL',
         name: 'Course viewed only on cable TV'
     },
     {
-        id: 23,
         code: 'CAR',
         name: 'Carleton Auditorium',
         coordinates: {
@@ -211,7 +188,6 @@ export default [
         address: '1475 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 24,
         code: 'CBD',
         name: 'Classroom Building 105',
         coordinates: {
@@ -221,7 +197,6 @@ export default [
         address: 'Classroom Bldg 105, Gainesville, FL 32603, USA'
     },
     {
-        id: 25,
         code: 'CGRC',
         name: 'Cancer/Genetics Research',
         coordinates: {
@@ -231,7 +206,6 @@ export default [
         address: '2033 Mowry Rd, Gainesville, FL 32608, United States'
     },
     {
-        id: 26,
         code: 'CHE',
         name: 'Chemical Engineering',
         coordinates: {
@@ -241,7 +215,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 27,
         code: 'CLB',
         name: 'Chemistry Laboratory Building',
         coordinates: {
@@ -251,7 +224,6 @@ export default [
         address: '125 Buckman Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 28,
         code: 'COM',
         name: 'Communicore - Health Sciences Center',
         coordinates: {
@@ -261,7 +233,6 @@ export default [
         address: '1600 SW Archer Rd, Gainesville, FL 32610, United States'
     },
     {
-        id: 29,
         code: 'CON',
         name: 'Constans Theatre',
         coordinates: {
@@ -271,12 +242,10 @@ export default [
         address: '687 McCarty Dr, Gainesville, FL 32603, United States'
     },
     {
-        id: 30,
         code: 'CREC',
         name: 'Citrus Hall, Ben Hill Griffin'
     },
     {
-        id: 31,
         code: 'CRR',
         name: 'Carr Hall',
         coordinates: {
@@ -286,12 +255,10 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 32,
         code: 'CSFL',
         name: 'Crops and Soils Field Lab'
     },
     {
-        id: 33,
         code: 'CSE',
         name: 'Computer Science Engineering',
         coordinates: {
@@ -301,7 +268,6 @@ export default [
         address: '432 Newell Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 34,
         code: 'DAU',
         name: 'Dauer Hall - Arts & Sciences',
         coordinates: {
@@ -311,7 +277,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 35,
         code: 'DSB',
         name: 'Dental Science Building',
         coordinates: {
@@ -321,7 +286,6 @@ export default [
         address: 'Dental Science Bldg, Iowa City, IA 52242, USA'
     },
     {
-        id: 36,
         code: 'ESL',
         name: 'Environmental Stress Lab',
         coordinates: {
@@ -331,7 +295,6 @@ export default [
         address: 'Gainesville, FL 32608, United States'
     },
     {
-        id: 37,
         code: 'EYN',
         name: 'Entomology - Nematology',
         coordinates: {
@@ -341,7 +304,6 @@ export default [
         address: '1881 Natural Area Dr, Gainesville, FL 32608, United States'
     },
     {
-        id: 38,
         code: 'FAA',
         name: 'Fine Arts A',
         coordinates: {
@@ -351,7 +313,6 @@ export default [
         address: '1389 Stadium Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 39,
         code: 'FAB',
         name: 'Fine Arts B (Gallery)',
         coordinates: {
@@ -361,7 +322,6 @@ export default [
         address: '400 SW 13th St, Gainesville, FL 32611, United States'
     },
     {
-        id: 40,
         code: 'FAC',
         name: 'Fine Arts C',
         coordinates: {
@@ -371,7 +331,6 @@ export default [
         address: 'Gainesville, FL 32601, United States'
     },
     {
-        id: 41,
         code: 'FAD',
         name: 'Fine Arts D',
         coordinates: {
@@ -381,7 +340,6 @@ export default [
         address: '101 Fine Arts Bldg A, Gainesville, FL 32611, United States'
     },
     {
-        id: 42,
         code: 'FIF',
         name: 'Fifield Hall',
         coordinates: {
@@ -391,7 +349,6 @@ export default [
         address: 'Fifield Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 43,
         code: 'FIRL',
         name: 'Plant Pathology Research Lab 1',
         coordinates: {
@@ -401,7 +358,6 @@ export default [
         address: '155 Research Rd, Quincy, FL 32351, United States'
     },
     {
-        id: 44,
         code: 'FLAV',
         name: 'Flavet Field',
         coordinates: {
@@ -411,7 +367,6 @@ export default [
         address: 'Woodlawn Dr, Gainesville, FL 32603, United States'
     },
     {
-        id: 45,
         code: 'FLG',
         name: 'Florida Gym',
         coordinates: {
@@ -421,7 +376,6 @@ export default [
         address: 'Florida Gymnasium, Gainesville, FL 32608, USA'
     },
     {
-        id: 46,
         code: 'FLI',
         name: 'Keene-Flint Hall',
         coordinates: {
@@ -431,7 +385,6 @@ export default [
         address: '80 Newell Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 47,
         code: 'FLO',
         name: 'Griffin-Floyd Hall',
         coordinates: {
@@ -441,7 +394,6 @@ export default [
         address: '230 Newell Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 48,
         code: 'FSN',
         name: 'Food Science and Human Nutrition',
         coordinates: {
@@ -451,7 +403,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 49,
         code: 'GER',
         name: 'Gerson Hall',
         coordinates: {
@@ -461,7 +412,6 @@ export default [
         address: '1368 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 50,
         code: 'GRAO',
         name: 'Graham Hall',
         coordinates: {
@@ -471,7 +421,6 @@ export default [
         address: 'United States'
     },
     {
-        id: 51,
         code: 'GRI',
         name: 'Grinter Hall - The Graduate School',
         coordinates: {
@@ -481,7 +430,6 @@ export default [
         address: '1523 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 52,
         code: 'HARN',
         name: 'Harn Museum of Art',
         coordinates: {
@@ -491,7 +439,6 @@ export default [
         address: '3259 Hull Rd, Gainesville, FL 32607, United States'
     },
     {
-        id: 53,
         code: 'HCAD',
         name: 'Health Science Center Admin. Services',
         coordinates: {
@@ -501,7 +448,6 @@ export default [
         address: '653 W 8th St, Jacksonville, FL 32209, United States'
     },
     {
-        id: 54,
         code: 'HDC',
         name: 'Human Development Center',
         coordinates: {
@@ -511,7 +457,6 @@ export default [
         address: '1401 E 1st St, Duluth, MN 55805, United States'
     },
     {
-        id: 55,
         code: 'HGS',
         name: 'Hough Hall',
         coordinates: {
@@ -521,7 +466,6 @@ export default [
         address: 'Hough Hall, Gainesville, FL 32611, USA'
     },
     {
-        id: 56,
         code: 'HOL',
         name: 'Holland Law Center',
         coordinates: {
@@ -531,7 +475,6 @@ export default [
         address: 'Spessard L. Holland Law Center, Gainesville, FL 32603, USA'
     },
     {
-        id: 57,
         code: 'HPNP',
         name: 'Health Professions, Nursing and Pharmacy Complex',
         coordinates: {
@@ -542,12 +485,10 @@ export default [
             'Health Professions, Nursing, Pharmacy Bldg, 1225 Center Dr, Gainesville, FL 32603, USA'
     },
     {
-        id: 58,
         code: 'HTUS',
         name: 'South Barn - Sam Wall Animal Science'
     },
     {
-        id: 59,
         code: 'HUB',
         name: 'The Hub - International Studies Center',
         coordinates: {
@@ -557,7 +498,6 @@ export default [
         address: 'Hub, 1765 Stadium Rd, Gainesville, FL 32603, United States'
     },
     {
-        id: 60,
         code: 'HUME',
         name: 'Hume Hall',
         coordinates: {
@@ -567,7 +507,6 @@ export default [
         address: 'Museum Rd, Gainesville, FL 32601, United States'
     },
     {
-        id: 61,
         code: 'IBLC',
         name: 'Institute of Black Culture',
         coordinates: {
@@ -577,12 +516,10 @@ export default [
         address: '1510 W University Ave, Gainesville, FL 32603, United States'
     },
     {
-        id: 62,
         code: 'FAKE',
         name: 'Fake Building'
     },
     {
-        id: 63,
         code: 'IHLC',
         name: 'Institute of Hispanic-Latino Cultures',
         coordinates: {
@@ -592,7 +529,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 64,
         code: 'IIT',
         name: 'IFAS Information Technology',
         coordinates: {
@@ -602,7 +538,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 65,
         code: 'INF',
         name: 'Infirmary',
         coordinates: {
@@ -612,7 +547,6 @@ export default [
         address: 'Fletcher Dr, Gainesville, FL 32603, United States'
     },
     {
-        id: 66,
         code: 'JENB',
         name: 'Jennings Hall B',
         coordinates: {
@@ -622,7 +556,6 @@ export default [
         address: '1515 Museum Rd, Gainesville, FL 32612, United States'
     },
     {
-        id: 67,
         code: 'KEY',
         name: 'Keys Complex - Student Housing',
         coordinates: {
@@ -632,7 +565,6 @@ export default [
         address: '1231 SW 3rd Ave, Gainesville, FL 32601, United States'
     },
     {
-        id: 68,
         code: 'LAR',
         name: 'Larsen Hall',
         coordinates: {
@@ -642,7 +574,6 @@ export default [
         address: 'Larsen Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 69,
         code: 'LBW',
         name: 'Library West',
         coordinates: {
@@ -652,7 +583,6 @@ export default [
         address: '1545 W University Ave, Gainesville, FL 32603, United States'
     },
     {
-        id: 70,
         code: 'LEI',
         name: 'Leigh Hall',
         coordinates: {
@@ -662,7 +592,6 @@ export default [
         address: 'Leigh Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 71,
         code: 'LIT',
         name: 'Little Hall',
         coordinates: {
@@ -672,7 +601,6 @@ export default [
         address: 'Stadium Rd, Gainesville, FL 32601, United States'
     },
     {
-        id: 72,
         code: 'LSP',
         name: 'Livestock Pavilion, Webb',
         coordinates: {
@@ -682,7 +610,6 @@ export default [
         address: 'United States'
     },
     {
-        id: 73,
         code: 'MAE',
         name: 'Materials Engineering',
         coordinates: {
@@ -692,7 +619,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 74,
         code: 'MAEA',
         name: 'Mechanical and Aerospace Engineering, Bldg. A',
         coordinates: {
@@ -702,17 +628,14 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 75,
         code: 'MAEB',
         name: 'Mechanical and Aerospace Engineering, Bldg. B'
     },
     {
-        id: 76,
         code: 'MAEC',
         name: 'Mechanical and Aerospace Engineering, Bldg. C'
     },
     {
-        id: 77,
         code: 'MAT',
         name: 'Matherly Hall',
         coordinates: {
@@ -722,7 +645,6 @@ export default [
         address: '1405 W University Ave, Gainesville, FL 32611, United States'
     },
     {
-        id: 78,
         code: 'MBI',
         name: 'McKnight Brain Institute',
         coordinates: {
@@ -732,7 +654,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 79,
         code: 'MCCA',
         name: 'McCarty Hall, Bldg. A',
         coordinates: {
@@ -742,7 +663,6 @@ export default [
         address: 'McCarty Hall C, Gainesville, FL 32603, USA'
     },
     {
-        id: 80,
         code: 'MCCB',
         name: 'McCarty Hall, Bldg. B',
         coordinates: {
@@ -752,7 +672,6 @@ export default [
         address: 'McCarty Hall B, Gainesville, FL 32603, USA'
     },
     {
-        id: 81,
         code: 'MCCC',
         name: 'McCarty Hall, Bldg. C',
         coordinates: {
@@ -762,7 +681,6 @@ export default [
         address: 'McCarty Hall C, Gainesville, FL 32603, USA'
     },
     {
-        id: 82,
         code: 'MCCD',
         name: 'McCarty Hall, Bldg D',
         coordinates: {
@@ -772,7 +690,6 @@ export default [
         address: 'McCarty Hall D, Gainesville, FL 32603, USA'
     },
     {
-        id: 83,
         code: 'MCG',
         name: 'McGuire Center for Lepidoptera Research',
         coordinates: {
@@ -783,7 +700,6 @@ export default [
             'McGuire Center for Lepidoptera Research, Gainesville, FL 32608, USA'
     },
     {
-        id: 84,
         code: 'MCSB',
         name: 'Microbiology and Cell Science',
         coordinates: {
@@ -793,12 +709,10 @@ export default [
         address: '1355 Museum Drive, Gainesville, FL 32603, United States'
     },
     {
-        id: 85,
         code: 'MSB',
         name: 'Medical Sciences - Stetson Hall'
     },
     {
-        id: 86,
         code: 'MSL',
         name: 'Marston Science Library',
         coordinates: {
@@ -808,7 +722,6 @@ export default [
         address: '444 Newell Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 87,
         code: 'MUB',
         name: 'Music Building',
         coordinates: {
@@ -818,7 +731,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 88,
         code: 'MUS',
         name: 'Florida Museum of Natural History - Dickinson Hall',
         coordinates: {
@@ -828,7 +740,6 @@ export default [
         address: '1659 Museum Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 89,
         code: 'NEB',
         name: 'Engineering Building',
         coordinates: {
@@ -838,7 +749,6 @@ export default [
         address: '1949 Stadium Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 90,
         code: 'NEW',
         name: 'Newell Hall',
         coordinates: {
@@ -848,7 +758,6 @@ export default [
         address: 'Newell Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 91,
         code: 'NPB',
         name: 'Physics Building',
         coordinates: {
@@ -858,7 +767,6 @@ export default [
         address: '2001 Museum Rd, Gainesville, FL 32603, United States'
     },
     {
-        id: 92,
         code: 'NRB',
         name: 'Nuclear Reactor',
         coordinates: {
@@ -868,7 +776,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 93,
         code: 'NRG',
         name: 'Norman Gymnasium',
         coordinates: {
@@ -878,7 +785,6 @@ export default [
         address: '119 W Main St, Norman, OK 73069, United States'
     },
     {
-        id: 94,
         code: 'NRN',
         name: 'Norman Hall',
         coordinates: {
@@ -888,7 +794,6 @@ export default [
         address: 'Norman Hall, Gainesville, FL 32601, USA'
     },
     {
-        id: 95,
         code: 'NRNA',
         name: 'Norman Hall Addition',
         coordinates: {
@@ -898,7 +803,6 @@ export default [
         address: 'Norman Hall Addition, Gainesville, FL 32601, USA'
     },
     {
-        id: 96,
         code: 'NSC',
         name: 'Nuclear Sciences Center',
         coordinates: {
@@ -909,7 +813,6 @@ export default [
             '1095 Nuclear Science Rd, College Station, TX 77843, United States'
     },
     {
-        id: 97,
         code: 'NUL',
         name: 'Animal Nutrition Labratory',
         coordinates: {
@@ -919,7 +822,6 @@ export default [
         address: '1207 W Gregory Dr, Urbana, IL 61801, United States'
     },
     {
-        id: 98,
         code: 'NZH',
         name: 'Newins-Ziegler Hall',
         coordinates: {
@@ -929,7 +831,6 @@ export default [
         address: 'Newins-Ziegler Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 99,
         code: 'ODAA',
         name: 'Office of Development and Alumni Affairs',
         coordinates: {
@@ -939,7 +840,6 @@ export default [
         address: '1600 SW Archer Rd, Gainesville, FL 32610, United States'
     },
     {
-        id: 100,
         code: 'OBS',
         name: 'Student Observatory',
         coordinates: {
@@ -949,7 +849,6 @@ export default [
         address: '30 Alta Rd, Palo Alto, CA 94305, United States'
     },
     {
-        id: 101,
         code: 'PCPA',
         name: 'Phillips Center for the Performing Arts',
         coordinates: {
@@ -959,7 +858,6 @@ export default [
         address: '3201 Hull Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 102,
         code: 'PEA',
         name: 'Peabody Hall',
         coordinates: {
@@ -969,7 +867,6 @@ export default [
         address: 'Union Rd, Gainesville, FL 32603, United States'
     },
     {
-        id: 103,
         code: 'PHL',
         name: 'Phelps Laboratory',
         coordinates: {
@@ -979,7 +876,6 @@ export default [
         address: '701 N Broadway, Sleepy Hollow, NY 10591, United States'
     },
     {
-        id: 104,
         code: 'PKY',
         name: 'P. K. Yonge Developmental Research School, 1080 SW 11 Street',
         coordinates: {
@@ -989,7 +885,6 @@ export default [
         address: '1080 SW 11th St, Gainesville, FL 32601, United States'
     },
     {
-        id: 105,
         code: 'POOL',
         name: 'Florida Pool',
         coordinates: {
@@ -999,7 +894,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 106,
         code: 'POW',
         name: 'Powell Hall - New Museum of Natural History',
         coordinates: {
@@ -1009,7 +903,6 @@ export default [
         address: '3215 Hull Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 107,
         code: 'PPD',
         name: 'Physical Plant Offices',
         coordinates: {
@@ -1019,7 +912,6 @@ export default [
         address: 'Physical Plant Offices, Gainesville, FL 32607, USA'
     },
     {
-        id: 108,
         code: 'PRL',
         name: 'Food and Environmental Toxicology Lab',
         coordinates: {
@@ -1029,7 +921,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 109,
         code: 'PSB',
         name: 'Shands Patient Services',
         coordinates: {
@@ -1039,7 +930,6 @@ export default [
         address: '1515 SW Archer Rd, Gainesville, FL 32608, United States'
     },
     {
-        id: 110,
         code: 'PSF',
         name: 'Plant Science Facility',
         coordinates: {
@@ -1049,7 +939,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 111,
         code: 'PST',
         name: 'Particle Sciences and Technology',
         coordinates: {
@@ -1059,7 +948,6 @@ export default [
         address: '3894 Courtney St, Bethlehem, PA 18017, United States'
     },
     {
-        id: 112,
         code: 'PSY',
         name: 'Psychology',
         coordinates: {
@@ -1070,7 +958,6 @@ export default [
             '2121 NW 40th Terrace Ste B, Gainesville, FL 32605, United States'
     },
     {
-        id: 113,
         code: 'PUGH',
         name: 'Pugh Hall',
         coordinates: {
@@ -1080,7 +967,6 @@ export default [
         address: 'Pugh Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 114,
         code: 'RCD',
         name: 'Recreation Center Dining',
         coordinates: {
@@ -1090,7 +976,6 @@ export default [
         address: '114 Rec Center, Gainesville, FL 32611, United States'
     },
     {
-        id: 115,
         code: 'REI',
         name: 'Reitz Union',
         coordinates: {
@@ -1100,7 +985,6 @@ export default [
         address: '686 Museum Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 116,
         code: 'RFC',
         name: 'Recreation and Fitness Center',
         coordinates: {
@@ -1110,7 +994,6 @@ export default [
         address: '244 Fletcher Dr, Gainesville, FL 32603, United States'
     },
     {
-        id: 117,
         code: 'RHN',
         name: 'Rhines Hall',
         coordinates: {
@@ -1120,7 +1003,6 @@ export default [
         address: 'Rhines Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 118,
         code: 'RLA',
         name: 'Reed Lab',
         coordinates: {
@@ -1130,7 +1012,6 @@ export default [
         address: '55 Dimock St, Boston, MA 02119, United States'
     },
     {
-        id: 119,
         code: 'RL1',
         name: 'Research Laboratory',
         coordinates: {
@@ -1140,7 +1021,6 @@ export default [
         address: '1911 SW 34th St, Gainesville, FL 32608, United States'
     },
     {
-        id: 120,
         code: 'RNK',
         name: 'Rinker Hall',
         coordinates: {
@@ -1150,7 +1030,6 @@ export default [
         address: 'Rinker Hall, 573 Newell Dr, Gainesville, FL 32603, USA'
     },
     {
-        id: 121,
         code: 'ROG',
         name: 'Rogers Hall',
         coordinates: {
@@ -1160,7 +1039,6 @@ export default [
         address: 'United States'
     },
     {
-        id: 122,
         code: 'ROL',
         name: 'Rolfs Hall',
         coordinates: {
@@ -1170,7 +1048,6 @@ export default [
         address: 'Rolfs Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 123,
         code: 'SBH',
         name: 'Steinbrenner Band Hall',
         coordinates: {
@@ -1180,7 +1057,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 124,
         code: 'SIS',
         name: 'Sisler Hall - Chemistry Research Bldg',
         coordinates: {
@@ -1190,7 +1066,6 @@ export default [
         address: '1680 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 125,
         code: 'SMA',
         name: 'Library East, Smathers',
         coordinates: {
@@ -1201,7 +1076,6 @@ export default [
             '1545 W University Ave, University of Florida, Gainesville, FL 32611, United States'
     },
     {
-        id: 126,
         code: 'SOC',
         name: "Stephen C. O'Connell Center Pool",
         coordinates: {
@@ -1211,7 +1085,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 127,
         code: 'SPRC',
         name: 'Springs Commons Building',
         coordinates: {
@@ -1222,7 +1095,6 @@ export default [
             'Diamond Village Commons Bldg, 1402 Diamond Rd, Gainesville, FL 32603, USA'
     },
     {
-        id: 128,
         code: 'SRPT',
         name: 'IFAS Support Services',
         coordinates: {
@@ -1232,7 +1104,6 @@ export default [
         address: 'Gainesville, FL 32603, United States'
     },
     {
-        id: 129,
         code: 'SSB',
         name: 'Criser Hall',
         coordinates: {
@@ -1242,7 +1113,6 @@ export default [
         address: '1478 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 130,
         code: 'STA',
         name: 'Stadium, Ben Hill Griffin',
         coordinates: {
@@ -1252,7 +1122,6 @@ export default [
         address: '157 Gale Lemerand Dr, Gainesville, FL 32601, United States'
     },
     {
-        id: 131,
         code: 'STZ',
         name: 'Stuzin Hall - Business Building',
         coordinates: {
@@ -1263,7 +1132,6 @@ export default [
             '1454, 100 Stuzin Hall Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 132,
         code: 'SWC',
         name: 'SW Recreation Complex',
         coordinates: {
@@ -1273,7 +1141,6 @@ export default [
         address: '13120 Vonn Rd, Largo, FL 33774, United States'
     },
     {
-        id: 133,
         code: 'THC',
         name: 'Teaching Hospital and Clinics, Shands',
         coordinates: {
@@ -1283,7 +1150,6 @@ export default [
         address: '4645 NW 8th Ave, Gainesville, FL 32605, United States'
     },
     {
-        id: 134,
         code: 'TIG',
         name: 'Tigert Hall - UF Administration',
         coordinates: {
@@ -1293,7 +1159,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 135,
         code: 'TUR',
         name: 'Turlington Hall',
         coordinates: {
@@ -1303,7 +1168,6 @@ export default [
         address: '330 Newell Dr, Gainesville, FL 32611, United States'
     },
     {
-        id: 136,
         code: 'UST',
         name: 'Ustler Hall',
         coordinates: {
@@ -1313,7 +1177,6 @@ export default [
         address: 'Ustler Hall, Gainesville, FL 32608, USA'
     },
     {
-        id: 137,
         code: 'VAN',
         name: 'Van Fleet Hall - ROTC',
         coordinates: {
@@ -1323,7 +1186,6 @@ export default [
         address: '204 Van Fleet Hall, Gainesville, FL 32611, United States'
     },
     {
-        id: 138,
         code: 'VET',
         name: 'Veterinary Science',
         coordinates: {
@@ -1333,7 +1195,6 @@ export default [
         address: '2015 SW 16th Ave, Gainesville, FL 32608, United States'
     },
     {
-        id: 139,
         code: 'VMAW',
         name: 'Veterinary Medicine - Academic Wing',
         coordinates: {
@@ -1343,7 +1204,6 @@ export default [
         address: 'Veterinary Medicine Academic Bldg, Gainesville, FL 32608, USA'
     },
     {
-        id: 140,
         code: 'WAL',
         name: 'Walker Hall',
         coordinates: {
@@ -1353,7 +1213,6 @@ export default [
         address: '1489 Union Rd, Gainesville, FL 32611, United States'
     },
     {
-        id: 141,
         code: 'WALC',
         name: 'Wallace Hall',
         coordinates: {
@@ -1363,12 +1222,10 @@ export default [
         address: '1001 George Wallace Dr, Gadsden, AL 35903, United States'
     },
     {
-        id: 142,
         code: 'WARP',
         name: 'WARP Haus - PHP Midtowne Center'
     },
     {
-        id: 143,
         code: 'WAU',
         name: 'Lake Wauburg',
         coordinates: {
@@ -1378,7 +1235,6 @@ export default [
         address: 'Lake Wauburg, Florida 32667, USA'
     },
     {
-        id: 144,
         code: 'WEIL',
         name: 'Weil Hall',
         coordinates: {
@@ -1388,7 +1244,6 @@ export default [
         address: 'Weil Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 145,
         code: 'WEIM',
         name: 'Weimer Hall',
         coordinates: {
@@ -1398,7 +1253,6 @@ export default [
         address: 'Weimer Hall, Gainesville, FL 32603, USA'
     },
     {
-        id: 146,
         code: 'WM',
         name: 'Williamson Hall',
         coordinates: {
@@ -1408,7 +1262,6 @@ export default [
         address: 'Gainesville, FL 32611, United States'
     },
     {
-        id: 147,
         code: 'WSFL',
         name: 'Weed Sciences Field Building',
         coordinates: {
@@ -1418,7 +1271,6 @@ export default [
         address: 'Weed Sciences Field Bldg, Gainesville, FL 32603, USA'
     },
     {
-        id: 148,
         code: 'YON',
         name: 'Yon Hall',
         coordinates: {

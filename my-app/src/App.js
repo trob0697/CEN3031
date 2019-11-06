@@ -11,7 +11,7 @@ class App extends React.Component {
     this.state = {
       data: [],
       filterText: '',
-      selectedBuilding: 0
+      selectedBuilding: null
     }
   }
 
@@ -32,7 +32,7 @@ class App extends React.Component {
 
   addBuildingToData = (x, y) => {
     let newBuilding = {
-      id: this.state.data.length + 1,
+      id: this.state.data.length,
       code: x,
       name: y
     }
@@ -43,18 +43,16 @@ class App extends React.Component {
       })
     }
   }
-  removeBuildingFromData = (id) => {
-    let newData = this.state.data.filter(d => d.id !== id)
+  removeBuildingFromData = (index) => {
+    let newData = this.state.data.filter((directory, indx) => indx !== index)
     this.setState({
       ...this.state,
       data: newData,
-      selectedBuilding: 0
+      selectedBuilding: null
     })
   }
 
   render() {
-    const util = require('util')
-  console.log(util.inspect(this.state.data, { maxArrayLength: null }))
     return (
       <div className="bg">
         <div className="row">

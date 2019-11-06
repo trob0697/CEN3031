@@ -6,12 +6,12 @@ class BuilingList extends React.Component {
 			<div>
 				{this.props.data
 				.filter(d => d.name.toLowerCase().startsWith(this.props.filterText.toLowerCase()))
-				.map(directory => {
+				.map((directory, index) => {
 					return (
-						<tr key={directory.id}>
-							<td onClick={() => this.props.selectedUpdate(directory.id)}>{directory.code} </td>
-							<td onClick={() => this.props.selectedUpdate(directory.id)}> {directory.name} </td>
-							<td onClick={() => this.props.removeBuildingFromData(directory.id)}>-</td>
+						<tr>
+							<td onClick={() => this.props.selectedUpdate(index)}>{directory.code} </td>
+							<td onClick={() => this.props.selectedUpdate(index)}> {directory.name} </td>
+							<td onClick={() => this.props.removeBuildingFromData(index)}>-</td>
 						</tr>
 					)
 				})}
